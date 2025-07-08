@@ -1,0 +1,7 @@
+/* Reset básico e padronização da fonte */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Kumbh Sans", sans-serif;
+}
